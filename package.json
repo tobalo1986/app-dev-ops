@@ -1,0 +1,21 @@
+{
+  "name": "app-dev-ops",
+  "version": "1.0.0",
+  "description": "When you're ready, start your application by running: `docker compose up --build`.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobalo1986/app-dev-ops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobalo1986/app-dev-ops/issues"
+  },
+  "homepage": "https://github.com/tobalo1986/app-dev-ops#readme"
+}
